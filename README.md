@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![image](avatar.png)
+  ![image](avatar-mini.png)
   
 </div>
 
