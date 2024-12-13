@@ -1,9 +1,15 @@
 <div align="center">
+  
+  ![image](avatar.png)
+  
+</div>
+
+<div align="center">
+
   ## Hello there
   
-  ![image](jodydonetti.png)
-
 </div>
+
 
 <!--
 **jodydonetti/jodydonetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
