@@ -14,8 +14,7 @@ With the release of [v2](https://github.com/ZiggyCreatures/FusionCache/releases/
 
 ### 🏆 Awards
 
-I've been lucky enough to receive a couple of recognitions, for which I'm very thankful.
-The reason seems to be mostly about my work on FusionCache:
+I've been lucky enough to receive a couple of recognitions, mostly for my work on FusionCache, and for which I'm very thankful:
 - [Google OSS Award](https://opensource.googleblog.com/2021/09/announcing-latest-open-source-peer-bonus-winners.html)
 - [Microsoft MVP Award](https://mvp.microsoft.com/en-US/MVP/profile/139895de-396f-ed11-81ab-000d3a5600fa)
 
