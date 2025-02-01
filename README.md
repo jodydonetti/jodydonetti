@@ -7,10 +7,10 @@
 ### 🦥 FusionCache
 
 I created [FusionCache](https://github.com/ZiggyCreatures/FusionCache): an easy to use, fast and robust hybrid cache with advanced resiliency features.
-<br/>
+
 FusionCache is free and OSS, has been battle tested on real-world production apps and services for years like [HIBP (Have I Been Pwned)](https://x.com/stebets/status/1881361994340839832) and is used even [by Microsoft](https://devblogs.microsoft.com/azure-sql/data-api-builder-ga/) itself.
 
-With the release of [v2](https://github.com/ZiggyCreatures/FusionCache/releases/tag/v2.0.0), FusionCache became the first and only production-ready implementation of [Microsoft HybridCache](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/hybrid?view=aspnetcore-9.0): not just the first 3rd party implementation but the [very first](https://x.com/jodydonetti/status/1881135481645339003) at all, including Microsoft's one.
+With the release of [v2](https://github.com/ZiggyCreatures/FusionCache/releases/tag/v2.0.0), FusionCache has become the first and only production-ready implementation of [Microsoft HybridCache](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/hybrid?view=aspnetcore-9.0): not just the first 3rd party implementation but the [very first](https://x.com/jodydonetti/status/1881135481645339003) at all, including Microsoft's one.
 
 ### 🏆 Awards
 
