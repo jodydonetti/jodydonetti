@@ -31,7 +31,7 @@ You can find me here:
 
 Sometimes people have this idea of inviting me to their shows.
 <br/>
-Ahah poor souls, they don't know I can mumble for hours about all things caching.
+Oooh poor souls, they don't know I can mumble for hours about all things caching.
 - [On .NET](https://www.youtube.com/watch?v=hCswI2goi7s) (english)
 - [Open At Microsoft](https://www.youtube.com/watch?v=wGKSNqxN4KE) (english)
 - [Data Exposed](https://www.youtube.com/watch?v=V2fCUoJgVAo) (english)
