@@ -21,6 +21,7 @@ I've been lucky enough to receive a couple of recognitions, mostly for my work o
 ### 🔗 Social
 
 You can find me here:
+
 - [GitHub](https://github.com/jodydonetti)
 - [Bluesky](https://bsky.app/profile/jodydonetti.bsky.social)
 - [Twitter](https://x.com/jodydonetti)
@@ -31,12 +32,16 @@ You can find me here:
 
 Sometimes people have this idea of inviting me to their shows.
 <br/>
-Oooh poor souls, they don't know I can mumble for hours about all things caching.
-- [On .NET](https://www.youtube.com/watch?v=hCswI2goi7s) (english)
-- [Open At Microsoft](https://www.youtube.com/watch?v=wGKSNqxN4KE) (english)
-- [Data Exposed](https://www.youtube.com/watch?v=V2fCUoJgVAo) (english)
-- [Small Talks](https://www.youtube.com/watch?v=DovOX0zIuJ8) (italian)
-- [Continuous Delivery](https://www.youtube.com/watch?v=E6PBkalmUn8) (italian)
+Oooh poor souls, they don't know I can ramble for hours about all things caching.
+
+- [On .NET (2025)](https://www.youtube.com/watch?v=3eZCtQSq9g4) (english)
+- [On .NET (2024)](https://www.youtube.com/watch?v=hCswI2goi7s) (english)
+- [Open At Microsoft (2024)](https://www.youtube.com/watch?v=wGKSNqxN4KE) (english)
+- [DotNetConf Italia (2024)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET) (italian)
+- [Continuous Delivery (2024)](https://www.youtube.com/watch?v=E6PBkalmUn8) (italian)
+- [Spike Time (2024)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
+- [Data Exposed (2022)](https://www.youtube.com/watch?v=V2fCUoJgVAo) (english)
+- [Small Talks (2022)](https://www.youtube.com/watch?v=DovOX0zIuJ8) (italian)
 
 
 <!--
