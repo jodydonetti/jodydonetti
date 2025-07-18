@@ -5,7 +5,9 @@
 >
 > Having said that, it's an incredible amount of work and it's draining all my time.
 > <br/>
-> Because of this, I may be **late in answering** issues & discussions: sorry about that 🙏
+> Because of this, I may be **late in answering** issues & discussions.
+>
+> Sorry about that 🙏
 
 
 # Hi 🤌
