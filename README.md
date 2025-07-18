@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> I'm currently onto something new, and pretty big.
+><br/>
+> I'm enjoying working on it and I'm totally dedicated: I hope you'll enjoy it when I'll reveal it 🙂
+>
+> Having said that, it's an incredible amount of work and it's draining all my time.
+> <br/>
+> Because of this, I may be **late in answering** issues & discussions: sorry about that 🙏
+
+
 # Hi 🤌
 
 ### 💻 Principal Engineer + R&D
