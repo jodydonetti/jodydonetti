@@ -1,15 +1,3 @@
-> [!IMPORTANT]
-> I'm currently onto something new, and pretty big.
-><br/>
-> I'm enjoying working on it and I'm totally dedicated: I hope you'll enjoy it when I'll reveal it 🙂
->
-> Having said that, it's an incredible amount of work and it's draining all my time.
-> <br/>
-> Because of this, I may be **late in answering** issues & discussions.
->
-> Sorry about that 🙏
-
-
 # Hi 🤌
 
 ### 💻 Principal Engineer + R&D
@@ -29,6 +17,24 @@ With the release of [v2](https://github.com/ZiggyCreatures/FusionCache/releases/
 I've been lucky enough to receive a couple of recognitions, mostly for my work on FusionCache, and for which I'm very thankful:
 - [Google OSS Award](https://opensource.googleblog.com/2021/09/announcing-latest-open-source-peer-bonus-winners.html)
 - [Microsoft MVP Award](https://mvp.microsoft.com/en-US/MVP/profile/139895de-396f-ed11-81ab-000d3a5600fa)
+
+### 🧑‍🏫 Courses
+
+If you like the FusionCache docs and are interested in all things caching, you may find this interesting.
+
+I published [a course](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti) on Dometrain:
+
+<div align="center">
+
+[![Caching Course on Dometrain](dometrain-getting-started-cover.jpg)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
+
+</div>
+
+It's not just about FusionCache, it's about caching as a whole: we'll go from the very foundations to pretty advanced topics and scenarios.
+<br/>
+We'll cover performance, robustness, resiliency and we'll see different real-world problems and, most importantly, solutions for them.
+<br/>
+I tried condensing 20+ years dealing with caching in one place, all in an approachable way.
 
 ### 🔗 Social
 
