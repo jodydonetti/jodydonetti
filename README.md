@@ -14,9 +14,26 @@ With the release of [v2](https://github.com/ZiggyCreatures/FusionCache/releases/
 
 ### 🏆 Awards
 
-I've been lucky enough to receive a couple of recognitions, mostly for my work on FusionCache, and for which I'm very thankful:
-- [Google OSS Award](https://opensource.googleblog.com/2021/09/announcing-latest-open-source-peer-bonus-winners.html)
-- [Microsoft MVP Award](https://mvp.microsoft.com/en-US/MVP/profile/139895de-396f-ed11-81ab-000d3a5600fa)
+I've been lucky enough to receive a couple of recognitions, mostly for my work on FusionCache, and for which I'm very thankful.
+
+
+<div align="center">
+
+  #### Google OSS Award
+
+  [![Google OSS Award](google-oss-award.png)](https://opensource.googleblog.com/2021/09/announcing-latest-open-source-peer-bonus-winners.html)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  #### Microsoft MVP Award
+  
+  [![Microsoft MVP Award](microsoft-mvp-award.png)](https://mvp.microsoft.com/en-US/MVP/profile/139895de-396f-ed11-81ab-000d3a5600fa)
+
+</div>
 
 ### 🧑‍🏫 Courses
 
@@ -42,7 +59,7 @@ You can find me here:
 
 - [GitHub](https://github.com/jodydonetti)
 - [Bluesky](https://bsky.app/profile/jodydonetti.bsky.social)
-- [Twitter](https://x.com/jodydonetti)
+- [Twitter](https://twitter.com/jodydonetti)
 - [Sessionize](https://sessionize.com/jody-donetti/)
 - [LinkedIn](https://www.linkedin.com/in/jody-donetti/)
 
