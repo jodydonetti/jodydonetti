@@ -44,6 +44,20 @@ But mind you, it's not just about FusionCache but about caching as a whole: we'l
 
 I tried condensing 20+ years dealing with caching in one place, all in an approachable way.
 
+### 📺 Talks
+
+Sometimes people have this idea of inviting me to their shows.
+<br/>
+Oooh poor souls, they don't know I can ramble for hours about all things caching.
+
+[Here](https://github.com/jodydonetti/talks) is a dedicated repo for that.
+
+<div align="center">
+
+[![Talks repo](on-dotnet-small.jpg)](https://github.com/jodydonetti/talks)
+
+</div>
+
 ### 🔗 Social
 
 You can find me here:
@@ -51,23 +65,8 @@ You can find me here:
 - [GitHub](https://github.com/jodydonetti)
 - [Bluesky](https://bsky.app/profile/jodydonetti.bsky.social)
 - [Twitter](https://twitter.com/jodydonetti)
-- [Sessionize](https://sessionize.com/jody-donetti/)
 - [LinkedIn](https://www.linkedin.com/in/jody-donetti/)
-
-### 📺 Videos
-
-Sometimes people have this idea of inviting me to their shows.
-<br/>
-Oooh poor souls, they don't know I can ramble for hours about all things caching.
-
-- [On .NET (2025)](https://www.youtube.com/watch?v=3eZCtQSq9g4) (english)
-- [On .NET (2024)](https://www.youtube.com/watch?v=hCswI2goi7s) (english)
-- [Open At Microsoft (2024)](https://www.youtube.com/watch?v=wGKSNqxN4KE) (english)
-- [DotNetConf Italia (2024)](https://www.improove.tech/videos/3593/Hybrid-Caching-in-NET) (italian)
-- [Continuous Delivery (2024)](https://www.youtube.com/watch?v=E6PBkalmUn8) (italian)
-- [Spike Time (2024)](https://www.youtube.com/watch?v=DovOX0zIuJ8)
-- [Data Exposed (2022)](https://www.youtube.com/watch?v=V2fCUoJgVAo) (english)
-- [Small Talks (2022)](https://www.youtube.com/watch?v=DovOX0zIuJ8) (italian)
+- [Sessionize](https://sessionize.com/jody-donetti/)
 
 
 <!--
