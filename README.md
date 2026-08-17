@@ -35,7 +35,7 @@ If you are interested in all things caching, I published 2 courses on Dometrain:
 <div align="center">
 
 [![Caching Course on Dometrain](dometrain-getting-started-cover.png)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
-&nbsp;&nbsp;
+
 [![Caching Course on Dometrain](dometrain-deep-dive-cover.png)](https://dometrain.com/course/deep-dive-caching-in-dotnet/?ref=jody-donetti)
 
 </div>
