@@ -30,19 +30,23 @@ I've been lucky enough to receive a couple of recognitions, mostly for my work o
 
 ### 🧑‍🏫 Courses
 
-If you are interested in all things caching, I published [a course](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti) on Dometrain:
+If you are interested in all things caching, I published 2 courses on Dometrain: Caching in .NET, [Getting Started](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti) & [Deep Dive](https://dometrain.com/course/deep-dive-caching-in-dotnet/?ref=jody-donetti).
 
 <div align="center">
 
 [![Caching Course on Dometrain](dometrain-getting-started-cover.png)](https://dometrain.com/course/getting-started-caching-in-dotnet/?ref=jody-donetti)
+&nbsp;&nbsp;
+[![Caching Course on Dometrain](dometrain-deep-dive-cover.png)](https://dometrain.com/course/deep-dive-caching-in-dotnet/?ref=jody-donetti)
 
 </div>
 
 If you like the FusionCache docs, you may like it too.
 
-But mind you, it's not just about FusionCache but about caching as a whole: we'll go from the very foundations to pretty advanced topics and scenarios. We'll cover performance, robustness, resiliency and we'll see different real-world problems and, most importantly, solutions for them.
+But mind you, they are not just about FusionCache but about caching as a whole: we'll go from the very foundations to pretty advanced topics and scenarios. We'll cover performance, robustness, resiliency and we'll see different real-world problems and, most importantly, solutions for them.
 
 I tried condensing 20+ years dealing with caching in one place, all in an approachable way.
+
+One journey, two chapters, filled with everything you can ask for about caching.
 
 ### 📺 Talks
 
